@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37017
     wikipedia: http://fr.wikipedia.org/wiki/Gustave_Coquiot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42063#Paul-C-zanne
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Peinture
